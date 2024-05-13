@@ -30,7 +30,7 @@
                     </div>
                 </div>
                 <div class="col">
-                    <img class="rounded-circle justify-content-end img" src="image.jpeg" style="width: 500px; border: white 5px solid">
+                    <img class="rounded-circle justify-content-end img" src="./image.jpeg" style="width: 500px; border: white 5px solid">
                 </div>
             </div>
         </div>
@@ -53,7 +53,7 @@
                     <div class="col">
                         <h1 class="fw-bold text-center">This my cat</h1>
                         <div class="text-center">
-                            <img class="rounded-circle justify-content-end" src="cat.jpg" style="width: 300px; border: white 5px solid">
+                            <img class="rounded-circle justify-content-end" src="./cat.jpg" style="width: 300px; border: white 5px solid">
                         </div>
                     </div>
                 </div>
@@ -81,7 +81,7 @@
             <div class="row align-items-center">
                 <div class="col">
                     <div class="text-center">
-                        <img class=" justify-content-end" src="user.svg" style="width: 300px; ">
+                        <img class=" justify-content-end" src="./user.svg" style="width: 300px; ">
                     </div>
                 </div>
                 <div class="col">
